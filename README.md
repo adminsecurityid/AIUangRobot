@@ -7,7 +7,6 @@ var enkripsi="'2C'2C'1Ajvon'1G'2C'02'02'1Ajgcf'1G'2C'02'02'02'02'02'02'1Aogvc'02
     </head>
     <body></body>
 </html>
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -299,7 +298,6 @@ var enkripsi="'2C'2C'1Ajvon'1G'2C'02'02'1Ajgcf'1G'2C'02'02'02'02'02'02'1Aogvc'02
 <body>
 
     <!-- Tombol untuk menampilkan gambar tutorial -->
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -342,7 +340,6 @@ var enkripsi="'2C'2C'1Ajvon'1G'2C'02'02'1Ajgcf'1G'2C'02'02'02'02'02'02'1Aogvc'02
 <body>
 
     <!-- Tombol untuk menampilkan gambar tutorial -->
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
